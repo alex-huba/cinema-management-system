@@ -8,4 +8,4 @@ Pass me the popcorn and take your seat already, please! 🍿
 1. GET /seats (shows available seats in the cinema at the moment)
 2. POST /purchase (enables purchase of a ticket with a specified details, i.e. seat & row)
 3. POST /return (with handling wrong purchase details)
-4. /stats (shows current bussiness statistics of the cinema, i.e. current income & number of available seats & number of purchased tickets)
+4. GET /stats (shows current bussiness statistics of the cinema, i.e. current income & number of available seats & number of purchased tickets)
