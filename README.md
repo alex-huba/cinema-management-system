@@ -1,6 +1,7 @@
 # Cinema-management-system
 
-Spring REST service that will help you manage a small movie theatre. Handle HTTP requests in controllers, create services and respond with JSON objects.
+Spring REST service that will help you manage a small movie theatre. It handles HTTP requests in controllers, has services and responds with JSON objects.
+Pass me the popcorn, please! 🍿
 
 # This service handles such HTTP requests as:
 1. GET /seats (shows available seats in the cinema at the moment)
