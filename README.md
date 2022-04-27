@@ -1,4 +1,4 @@
-# cinema-management-system
+# Cinema-management-system
 
 Spring REST service that will help you manage a small movie theatre. Handle HTTP requests in controllers, create services and respond with JSON objects.
 
